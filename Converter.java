@@ -1,2 +1,2 @@
-public class New {
+public class Converter {
 }
